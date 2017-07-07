@@ -89,8 +89,8 @@ $(function () {
 </script>")
 
 (def default-options
-  {:width  400
-   :height 400})
+  {:width  "400px"
+   :height "400px"})
 
 (defn render
   ([graph-data] (render graph-data {}))

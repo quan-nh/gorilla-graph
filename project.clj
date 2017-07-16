@@ -1,4 +1,4 @@
-(defproject gorilla-graph "0.1.0"
+(defproject gorilla-graph "0.1.0-SNAPSHOT"
   :description "A network graph renderer for Gorilla REPL, using vis.js library."
   :url "https://github.com/tentamen/gorilla-graph"
   :license {:name "MIT"}

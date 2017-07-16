@@ -7,6 +7,11 @@ Based on excellent work of these projects:
 - [proto-repl-charts](https://github.com/jasongilman/proto-repl-charts)
 - [leaflet-gorilla](https://github.com/wiseman/leaflet-gorilla)
 
+## Installation
+```
+[gorilla-graph "0.1.0-SNAPSHOT"]
+```
+
 ## License
 
 Copyright © 2017 Quan

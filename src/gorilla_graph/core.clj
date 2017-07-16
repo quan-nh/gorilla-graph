@@ -89,7 +89,7 @@ $(function () {
 </script>")
 
 (def default-options
-  {:width  "400px"
+  {:width  "600px"
    :height "400px"})
 
 (defn render

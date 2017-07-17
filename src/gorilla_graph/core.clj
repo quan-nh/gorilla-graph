@@ -112,7 +112,7 @@ $(function () {
 (extend-type GraphView
   render/Renderable
   (render [{:keys [graph-data options] :as self}]
-    {:type :html :content (render graph-data options) :value (pr-str self)}))
+    {:type :html :content (render graph-data options) :value (hash self)}))
 
 (defn view
   ([graph-data] (view graph-data {}))
